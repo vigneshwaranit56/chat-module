@@ -1,5 +1,5 @@
 
-package com.in28minutes.springboot.microservice.eureka.naming.server.springbootmicroserviceeurekanamingserver;
+package com.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
